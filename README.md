@@ -1,12 +1,9 @@
 <div align="center">
-  <!-- Minimal Top Banner -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-components/main/assets/banner.svg" width="100%" alt="Header Banner" />
+  <!-- Minimalist Aesthetic Dark Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=09090b&height=180&section=header&text=Hi%20👋,%20Imma%20Keegan&fontSize=36&fontColor=ffffff&desc=Support%20Specialist%20by%20day%20(9-5)%20%E2%98%80%EF%B8%8F%20%E2%80%A2%20Engineer%20by%20night%20(5-9)%20%F0%9F%8C%99&descSize=16&descAlignY=70" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
-  <!-- Header -->
-  <h1>Hi 👋, I'm Keegan</h1>
-  <h3>Support Specialist by day (9–5) ☀️ • Engineer by night (5–9) 🌙</h3>
   <p><b>IT • Infrastructure • Self-Hosting</b></p>
 
   <br/>
@@ -24,7 +21,7 @@
       <p>My goal is simple: <b>build stable, scalable systems, implement smart automation, and continuously advance in the field of IT Support & Systems Engineering.</b></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="100%" style="border-radius: 8px;" alt="Aesthetic Tech Animation" />
+      <img src="https://media.giphy.com/media/qgQUGG4dbv5BL0GYnm/giphy.gif" width="90%" style="border-radius: 8px;" alt="Minimal Tech Pixel GIF" />
     </td>
   </tr>
 </table>
