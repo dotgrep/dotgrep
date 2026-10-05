@@ -9,7 +9,7 @@
 ┌─────────────────────────────────────────────────────────┐
 │ $ grep -i "keegan" /etc/engineers/support.conf          │
 │ [MATCH FOUND]: Keegan | Support Engineer                │
-│ [LOCATION]: Bellville, Cape Town, ZA                    │
+│ [LOCATION]: Cape Town, ZA                    │
 │ [STACK]: Linux • Proxmox VE • MikroTik • Tailscale      │
 └─────────────────────────────────────────────────────────┘
   </pre>
