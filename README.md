@@ -38,7 +38,7 @@
 
 ### 🚀 About Me
 
-<img align="right" src="IMG_6246.jpeg" width="30%" alt="About Me Graphic" />
+<img align="right" src="IMG_6251.jpeg" width="30%" alt="About Me Graphic" />
 
 I’m a support specialist by day (9–5) and an engineer by night (5–9). Over the years, I’ve found my drive in troubleshooting, resolving, building, and continuously deepening my understanding of real-world IT engineering.
 
