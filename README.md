@@ -22,8 +22,6 @@
       <p>I’m a support engineer based in Cape Town, South Africa. Over the years, I’ve found my drive in troubleshooting, resolving, building, and continuously deepening my understanding of real-world IT engineering.</p>
       <p>I currently design and maintain a production-grade homelab featuring isolated virtual machines, containerized application stacks, edge routing, and zero-trust network architecture.</p>
       <p>My goal is simple: <b>build stable, scalable systems, implement smart automation, and continuously advance in the field of IT Support & Systems Engineering.</b></p>
-      <br/>
-      <p><i><b>Note on my work:</b> While I use open-source design templates and AI tools to help structure clean documentation and front-end aesthetics, <b>100% of the underlying network topologies, hypervisor configurations, routing rules, and server builds are entirely my own hands-on work.</b></i></p>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="100%" style="border-radius: 8px;" alt="Aesthetic Tech Animation" />
