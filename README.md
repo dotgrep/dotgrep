@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Top Banner (Shady Style) -->
+  <!-- Minimal Top Banner -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme-components/main/assets/banner.svg" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
   <!-- Header -->
   <h1>Hi 👋, I'm Keegan</h1>
-  <h3>Support Engineer</h3>
+  <h3>Support Specialist by day (9–5) ☀️ • Engineer by night (5–9) 🌙</h3>
   <p><b>IT • Infrastructure • Self-Hosting</b></p>
 
   <br/>
@@ -19,13 +19,14 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <p>I’m a support engineer based in Cape Town, South Africa, passionate about IT systems, infrastructure, and self-hosted environments.</p>
-      <p>Over the past two years, I’ve built and maintained my own homelab setup—learning the ins and outs of servers, networking, and automation through hands-on experience.</p>
+      <p>I’m a support engineer based in Cape Town, South Africa. Over the years, I’ve found my drive in troubleshooting, resolving, building, and continuously deepening my understanding of real-world IT engineering.</p>
+      <p>I currently design and maintain a production-grade homelab featuring isolated virtual machines, containerized application stacks, edge routing, and zero-trust network architecture.</p>
+      <p>My goal is simple: <b>build stable, scalable systems, implement smart automation, and continuously advance in the field of IT Support & Systems Engineering.</b></p>
       <br/>
-      <p><i><b>Note on my work:</b> While I use open-source design templates and AI tools to help structure clean documentation, <b>100% of the underlying network setups, server builds, and configurations are entirely my own work.</b></i></p>
+      <p><i><b>Note on my work:</b> While I use open-source design templates and AI tools to help structure clean documentation and front-end aesthetics, <b>100% of the underlying network topologies, hypervisor configurations, routing rules, and server builds are entirely my own hands-on work.</b></i></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/dotgrep/raw/astronaut.png" width="90%" style="border-radius: 8px;" alt="Astronaut Graphic" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="100%" style="border-radius: 8px;" alt="Aesthetic Tech Animation" />
     </td>
   </tr>
 </table>
@@ -45,7 +46,7 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <!-- Skill Icons including Python & Terraform -->
+  <!-- Interactive Skill Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,terraform,linux,debian,fedora,docker,cloudflare,bash,git,vscode&theme=dark" alt="Skill Icons" />
   </a>
